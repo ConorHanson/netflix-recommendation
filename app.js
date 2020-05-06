@@ -37,7 +37,7 @@ request(options, function (error, response, body) {
 })
 
 
-// mongoimport--host Netflixdb - shard - 0 / netflixdb - shard - 00 - 00 - pnlng.mongodb.net: 27017, netflixdb - shard - 00 - 01 - pnlng.mongodb.net: 27017, netflixdb - shard - 00 - 02 - pnlng.mongodb.net: 27017 --ssl--username test--password test1998--authenticationDatabase admin--db nf--collection genres--type json --file C: \Users\Conor\Pictures\genre.json
+// mongoimport--host Netflixdb - shard - 0 / netflixdb - shard - 00 - 00 - pnlng.mongodb.net: 27017, netflixdb - shard - 00 - 01 - pnlng.mongodb.net: 27017, netflixdb - shard - 00 - 02 - pnlng.mongodb.net: 27017 --ssl--username test--password XXXXXXXX--authenticationDatabase admin--db nf--collection genres--type json --file C: \Users\Conor\Pictures\genre.json
 
 
 
